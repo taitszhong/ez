@@ -29,7 +29,7 @@ end
 # unset irrelevant variables
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/home/osboxes/PycharmProjects/Flask-AppBuilder-Site/venv"
+set -gx VIRTUAL_ENV "/home/osboxes/Downloads/ez/venv"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH
